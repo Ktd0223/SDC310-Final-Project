@@ -1,5 +1,0 @@
-GameSwap GitHub Repository
-
-Add your repository URL here after uploading the GameSwap folder to GitHub:
-https://github.com/YOUR-USERNAME/GameSwap
-
